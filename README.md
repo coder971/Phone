@@ -2,6 +2,13 @@
 
 This project is a clone of Apple's iPhone 15 Pro website, built using React.js and TailwindCSS. It showcases the iPhone 15 Pro models with dynamic 3D rendering and animations.
 
+## Screenshots
+
+![Screenshot 2025-03-20 at 12 11 04 AM](https://github.com/user-attachments/assets/55877862-dc0d-4148-b4c5-0af1dfb3ad15)
+![Screenshot 2025-03-20 at 12 11 20 AM](https://github.com/user-attachments/assets/60419995-ae13-4724-9bc2-afbbf760de8e)
+![Screenshot 2025-03-20 at 12 12 31 AM](https://github.com/user-attachments/assets/3a8db5fa-a3c8-460d-aa47-a3f180cb02cd)
+![Screenshot 2025-03-20 at 12 14 57 AM](https://github.com/user-attachments/assets/c7bfdf32-d051-46db-9359-731fc70033c6)
+
 ## Tech Stack
 
 - React.js
